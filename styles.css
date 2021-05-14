@@ -18,3 +18,14 @@ input[type="text"]{
     font-size: 14px;
     width:300px; 
 }
+
+
+h1 > button  {
+    float: right;
+    margin-right: 10px;
+}
+
+
+.hidden{
+    display: none;
+}
