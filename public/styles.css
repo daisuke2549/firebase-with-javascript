@@ -2,12 +2,20 @@ body{
     font-size:14px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding:20px;
+    background-color: pink;
 }
 
 h1{
     font-size: 22px;
     font-weight: normal;
 }
+
+h2{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+
 
 li{
     line-height: 2;
