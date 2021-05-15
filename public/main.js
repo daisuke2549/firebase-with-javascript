@@ -101,4 +101,4 @@
 })();
 
 
-alert("hello world");
+alert("チャットアプリへようこそ");
